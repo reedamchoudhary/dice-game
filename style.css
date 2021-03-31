@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: #626363;
+    color:#2ad4a6;
+    font-family: 'Niconne', cursive;
+}
+table{
+    margin:auto;
+}
+
+th, td{
+    padding: 15px;
+    font-family: 'Acme', sans-serif;
+    font-size: 2rem;
+}
+
+h1{
+    font-size: 7rem;
+    margin-block-start: 0em;
+}
