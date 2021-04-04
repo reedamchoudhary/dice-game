@@ -1,8 +1,9 @@
 body{
     text-align: center;
-    background-color: #626363;
-    color:#2ad4a6;
-    font-family: 'Niconne', cursive;
+    /* background-color: #626363; */
+    background-image: url("images/bg.jpg");
+    color:#7b113a;
+    font-family: 'Cookie', cursive;
 }
 table{
     margin:auto;
@@ -10,11 +11,19 @@ table{
 
 th, td{
     padding: 15px;
-    font-family: 'Acme', sans-serif;
+    font-family: 'Galdeano', sans-serif;
     font-size: 2rem;
 }
 
-h1{
+h1, h2{
     font-size: 7rem;
     margin-block-start: 0em;
 }
+
+.makeVisible{
+    visibility: visible;
+}
+
+/* img{
+    box-shadow: 10px 10px 5px #ccc;
+} */
